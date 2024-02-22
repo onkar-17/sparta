@@ -1,1 +1,1 @@
-# sparta
+# sparta coding club
