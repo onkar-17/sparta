@@ -1,2 +1,1 @@
-# sparta coding club
-# sparta frontend
+Instagram frontend clone using html, css and javascript.
